@@ -1,0 +1,19 @@
+{
+  "name": "pomopower_backend",
+  "version": "1.0.0",
+  "description": "This repo includes the backend for the Pomopower app. It is a Node.js app that uses Express.js and MongoDB.",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "Pomodoro",
+    "Pomopower",
+    "Backend",
+    "Node.js",
+    "Express.js",
+    "MongoDB"
+  ],
+  "author": "Ehsan Mazaheri",
+  "license": "ISC"
+}
